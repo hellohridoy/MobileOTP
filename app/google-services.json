@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "224853982696",
-    "project_id": "mobileotp-3d228",
-    "storage_bucket": "mobileotp-3d228.appspot.com"
+    "project_number": "40923776924",
+    "project_id": "mobileotp-b4ee9",
+    "storage_bucket": "mobileotp-b4ee9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:224853982696:android:46a144938aaa016b5ff85d",
+        "mobilesdk_app_id": "1:40923776924:android:b377bbd61aa5e42b16aa59",
         "android_client_info": {
           "package_name": "com.example.mobileotp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "224853982696-3lbjaen53tdf0slfdneskct51mc1n514.apps.googleusercontent.com",
+          "client_id": "40923776924-kbrb7psnqs3t812aj7p52ick8b00u1sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobileotp",
+            "certificate_hash": "08edf4d1372da1f7289aa355b76dd4f107fb04e3"
+          }
+        },
+        {
+          "client_id": "40923776924-q2euio5ekmmbhd3m18ni7dvrq9v7c7co.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDrT-6v3aUAmx2WQxe5T-2LEb-sYi9GCUE"
+          "current_key": "AIzaSyBmUrzbgbm8aouMXrWp3dSzSgpwgqfoloc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "224853982696-3lbjaen53tdf0slfdneskct51mc1n514.apps.googleusercontent.com",
+              "client_id": "40923776924-q2euio5ekmmbhd3m18ni7dvrq9v7c7co.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
